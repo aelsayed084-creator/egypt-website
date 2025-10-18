@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+
+}
+nav{
+    background-color: rgb(206, 113, 47);
+}
+.food{
+    color: darkorchid;
+}
+.yummy{
+    color: darkorange;
+}
+h2{
+    color: blue;
+}
+
+nav{
+    border-radius: 59px;
+    padding: 2px;
+    border-color: black;
+    border-style: ridge;
+    border-width: thick;
+
+}
+nav ul{
+    margin: auto;
+    
+
+}
+nav ul li{
+   text-decoration: none; 
+   display:inline;
+   list-style-type: none;
+}
+nav ul a{
+    padding-left: 7px;
+    padding-right: 7px;
+    color: purple;
+    text-decoration: none;
+
+}

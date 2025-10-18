@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+nav{
+    background-color: rgb(206, 113, 47);
+}
+#attractions{
+    color: magenta;
+}
+#pyramids{
+    color: midnightblue;
+}
+#tower{
+    color: rgb(236, 56, 149);
+}
